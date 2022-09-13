@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Front End Devlopment](https://github.com/kishankool/kishan)
+- 👯 I’m looking to collaborate on [Front End Devlopment](https://kishankool.github.io/website/)
 
 - 🤝 I’m looking for help with **Back End Devlopment**
 
