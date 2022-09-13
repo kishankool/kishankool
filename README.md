@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishankool](https://github.com/kishankool)
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP**
+- 💬 Ask me **a joke.**
 
 - 📫 How to reach me **kishamishra389@gmail.com**
 
